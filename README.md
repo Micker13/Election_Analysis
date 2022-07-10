@@ -22,15 +22,21 @@ At the request of the commission, specific results are shown below:
 **1. Total votes cast** - 369,711
 
 **2. Turnout based on County**
+      
       Jefferson County - 10.5% (38,855 votes)
+      
       Denver County - 82.8% (306,055 votes)
+      
       Arapahoe County - 6.7% (24,801 votes)
 
 **3. Largest County** - Denver County 
 
 **4. Votes by Candidate**
+      
       Charles Casper Stockham - 23.0% (85,213 votes)
+      
       Diana DeGette - 73.8% (272,892 votes)
+      
       Raymon Anthony Doane - 3.1% (11,606 votes)
 
 **5. Election Winner** - Diana Degette
